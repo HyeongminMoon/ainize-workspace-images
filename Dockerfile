@@ -1,4 +1,4 @@
-FROM byeongal/ubuntu20.04-cuda11.2.2-python3.8.10
+FROM byeongal/ubuntu18.04-cuda11.1.1-python3.8.10
 
 USER root
 ## Basic Env
